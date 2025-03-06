@@ -15,8 +15,3 @@ for(auto p:n){
 }
 }
 
-int n = nums.size();
-for(int i  =0;i<n;i++){
-    int count = 0; 
-    for(int  j = 0;)
-}
